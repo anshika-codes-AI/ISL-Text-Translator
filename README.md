@@ -88,7 +88,8 @@ All communication follows this file:
     "text": "string",
     "confidence": "number"
   }
-}```
+}``` 
+
 >❗ This file is locked.
 > Any change must be approved by the project leader.
 
