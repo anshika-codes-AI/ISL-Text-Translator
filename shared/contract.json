@@ -1,0 +1,10 @@
+{
+  "request": {
+    "frames": "array",
+    "timestamp": "number"
+  },
+  "response": {
+    "text": "string",
+    "confidence": "number"
+  }
+}
