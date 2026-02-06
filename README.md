@@ -1,6 +1,6 @@
 # ISL Sign Language Translator 🇮🇳🤟
 
-A full-fledged product-oriented project to convert **Indian Sign Language (ISL)** into **real-time text** using a camera.
+> A full-fledged product-oriented project to convert **Indian Sign Language (ISL)** into **real-time text** using a camera.
 
 This project is being built step-by-step with a strong focus on:
 - Real-time performance
