@@ -104,7 +104,7 @@ All communication follows this file:
 
 * Dummy AI output is acceptable
 
-🎉 If this works → Project is officially alive
+> 🎉 If this works → Project is officially alive
 
 ## 🚧 Current Status
 
